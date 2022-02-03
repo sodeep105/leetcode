@@ -1,21 +1,29 @@
-class Solution:
-    def matrixReshape(self, mat: list[list[int]], r: int, c: int) -> list[list[int]]:
-        if r * c != len(mat) * len(mat[0]):
+class Solution(object):
+    def matrixReshape(self, mat, r, c):
+        """
+        :type mat: List[List[int]]
+        :type r: int
+        :type c: int
+        :rtype: List[List[int]]
+        """
+        if(len(mat)*len(mat[0]) != r*c):
             return mat
+        row = 0
+        column = 0
         ans = []
-        for _ in range(r):
+        for i in range(0, r):
             temp = []
-            for _ in range(c):
-                temp.append(0)
             ans.append(temp)
-        # print(temp)
-        row, col = 0, 0
-        for line in mat:
-            for element in line:
-                ans[row][col] = element
-                if col == c - 1:
-                    row += 1
-                    col = 0
-                else:
-                    col += 1
+            for i in range(0, c):
+                temp.append(0)
+
+        for i in range(0, len(mat)):
+            for j in range(0, len(mat[0])):
+                ans[row][column] = mat[i][j]
+                column += 1
+                if column == c:
+                    row = row+1
+                    column = 0
+
         return ans
+        
