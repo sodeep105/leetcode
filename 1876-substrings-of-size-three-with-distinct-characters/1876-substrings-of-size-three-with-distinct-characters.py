@@ -11,10 +11,11 @@ class Solution(object):
         for i in range(len(s)):
             dic[s[i]]= dic.get(s[i], 0) + 1     
             if i>=2:
-                if sum(dic.values()) == 3 and len(dic.values()) == 3:
+                if len(dic.values()) == 3:
                     count+=1
                 dic[s[i-2]] -= 1
                 if dic[s[i-2]] == 0:
                     dic.pop(s[i-2])
+                
                 
         return count
