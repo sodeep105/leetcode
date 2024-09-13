@@ -6,6 +6,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sodeep105/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,9 +56,14 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sodeep105/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sodeep105/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
