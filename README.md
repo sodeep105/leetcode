@@ -27,6 +27,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | ------- |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | ------- |
 | [0011-container-with-most-water](https://github.com/sodeep105/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +68,8 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sodeep105/leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
