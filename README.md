@@ -29,6 +29,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sodeep105/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
@@ -83,4 +84,8 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sodeep105/leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sodeep105/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
