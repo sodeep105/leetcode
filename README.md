@@ -34,6 +34,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sodeep105/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sodeep105/leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sodeep105/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/sodeep105/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -97,4 +99,8 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | ------- |
 | [0735-asteroid-collision](https://github.com/sodeep105/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/sodeep105/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
