@@ -10,6 +10,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/sodeep105/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sodeep105/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sodeep105/leetcode/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/sodeep105/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
