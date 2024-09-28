@@ -9,6 +9,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0011-container-with-most-water](https://github.com/sodeep105/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sodeep105/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sodeep105/leetcode/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
