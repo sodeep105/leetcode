@@ -25,6 +25,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sodeep105/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/sodeep105/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sodeep105/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
@@ -39,6 +40,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/sodeep105/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2470-removing-stars-from-a-string](https://github.com/sodeep105/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -110,4 +112,8 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sodeep105/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
