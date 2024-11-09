@@ -120,6 +120,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sodeep105/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
@@ -127,4 +128,8 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodeep105/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sodeep105/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sodeep105/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sodeep105/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
