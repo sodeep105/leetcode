@@ -120,6 +120,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sodeep105/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sodeep105/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
 ## Sliding Window
@@ -131,5 +132,10 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sodeep105/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sodeep105/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sodeep105/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
