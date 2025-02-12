@@ -137,6 +137,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0002-add-two-numbers](https://github.com/sodeep105/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sodeep105/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sodeep105/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/sodeep105/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sodeep105/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
