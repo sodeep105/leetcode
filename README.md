@@ -80,6 +80,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | ------- |
 | [0011-container-with-most-water](https://github.com/sodeep105/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sodeep105/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/sodeep105/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sodeep105/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sodeep105/leetcode/tree/master/0283-move-zeroes) |
@@ -138,6 +139,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0002-add-two-numbers](https://github.com/sodeep105/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sodeep105/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sodeep105/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/sodeep105/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sodeep105/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/sodeep105/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sodeep105/leetcode/tree/master/0138-copy-list-with-random-pointer) |
