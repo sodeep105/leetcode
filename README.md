@@ -28,6 +28,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/sodeep105/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/sodeep105/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sodeep105/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sodeep105/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -143,8 +144,17 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sodeep105/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/sodeep105/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sodeep105/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/sodeep105/leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sodeep105/leetcode/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sodeep105/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sodeep105/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
