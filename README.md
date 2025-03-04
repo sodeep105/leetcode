@@ -185,4 +185,8 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0101-symmetric-tree](https://github.com/sodeep105/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sodeep105/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sodeep105/leetcode/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sodeep105/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
