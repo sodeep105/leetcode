@@ -12,6 +12,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sodeep105/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sodeep105/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sodeep105/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sodeep105/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -27,6 +28,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodeep105/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sodeep105/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/sodeep105/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/sodeep105/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
@@ -59,6 +61,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sodeep105/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/sodeep105/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -163,6 +166,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0100-same-tree](https://github.com/sodeep105/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sodeep105/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sodeep105/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sodeep105/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sodeep105/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -184,6 +188,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0100-same-tree](https://github.com/sodeep105/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sodeep105/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sodeep105/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sodeep105/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sodeep105/leetcode/tree/master/0226-invert-binary-tree) |
 ## Database
 |  |
