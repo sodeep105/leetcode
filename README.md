@@ -50,6 +50,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sodeep105/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sodeep105/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1894-merge-strings-alternately](https://github.com/sodeep105/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/sodeep105/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0283-move-zeroes](https://github.com/sodeep105/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sodeep105/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/sodeep105/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
