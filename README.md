@@ -12,6 +12,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sodeep105/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sodeep105/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sodeep105/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sodeep105/leetcode/tree/master/0162-find-peak-element) |
@@ -210,4 +211,12 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sodeep105/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/sodeep105/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sodeep105/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sodeep105/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sodeep105/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
