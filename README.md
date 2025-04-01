@@ -55,6 +55,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0020-valid-parentheses](https://github.com/sodeep105/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/sodeep105/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/sodeep105/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
@@ -120,6 +121,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sodeep105/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/sodeep105/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
@@ -231,6 +233,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0077-combinations](https://github.com/sodeep105/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sodeep105/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/sodeep105/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
