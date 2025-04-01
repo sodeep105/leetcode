@@ -15,6 +15,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sodeep105/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sodeep105/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sodeep105/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sodeep105/leetcode/tree/master/0162-find-peak-element) |
@@ -45,6 +46,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | ------- |
 | [0036-valid-sudoku](https://github.com/sodeep105/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/sodeep105/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sodeep105/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sodeep105/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/sodeep105/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sodeep105/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
@@ -184,6 +187,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/sodeep105/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sodeep105/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sodeep105/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -226,6 +230,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0046-permutations](https://github.com/sodeep105/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sodeep105/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sodeep105/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
