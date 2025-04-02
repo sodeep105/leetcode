@@ -26,6 +26,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0347-top-k-frequent-elements](https://github.com/sodeep105/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0735-asteroid-collision](https://github.com/sodeep105/leetcode/tree/master/0735-asteroid-collision) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sodeep105/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sodeep105/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
 |  |
 | ------- |
