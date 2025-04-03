@@ -54,6 +54,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 | [0003-longest-substring-without-repeating-characters](https://github.com/sodeep105/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sodeep105/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sodeep105/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sodeep105/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sodeep105/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sodeep105/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sodeep105/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -121,6 +122,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sodeep105/leetcode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sodeep105/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sodeep105/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/sodeep105/leetcode/tree/master/0392-is-subsequence) |
@@ -229,6 +231,7 @@ The aim of this repository is to keep track of my preperaton for coding intervie
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sodeep105/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sodeep105/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sodeep105/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sodeep105/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sodeep105/leetcode/tree/master/0077-combinations) |
